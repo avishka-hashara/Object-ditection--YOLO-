@@ -70,7 +70,7 @@ This project is under the **MIT License**.
 ### 🔗 Connect with Me
 
 - GitHub: [https://github.com/avishka-hashara](https://github.com/avishka-hashara)
-- LinkedIn: Avishka Hashara
+- LinkedIn: www.linkedin.com/in/avishkahashara
 
 Happy Coding! 
 
